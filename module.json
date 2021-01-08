@@ -1,0 +1,24 @@
+{
+    "name" : "FoundryVTT-dnd5e-he_IL",
+    "title" : "Hebrew [DND 5th Edition]",
+    "description" : "Hebrew language support for Foundry VTT D&D5e system",
+    "version" : "0.0.1",
+    "minimumCoreVersion" : "0.7.8",
+    "compatibleCoreVersion" : "0.7.999",
+    "author" : "drorfromthenegev",
+    
+    "systems": ["dnd5e"],
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    
+    "languages" : [{
+        "lang" : "he",
+        "name" : "עברית (Hebrew)",
+        "path" : "he.json"
+    }],
+    
+    "url" : "https://github.com/isrp/foundry-vtt-dnd5e-he_IL",
+    "manifest" : "https://github.com/isrp/foundry-vtt-dnd5e-he_IL/blob/main/module.json",
+    "download" : "https://github.com/isrp/foundry-vtt-dnd5e-he_IL/archive/main.tar.gz"
+}
